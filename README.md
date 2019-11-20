@@ -1,5 +1,6 @@
 # starchart2717
 This is just a flying object.
+
 |Property|Value|
 |:-:|:-:|
 |Wingspan|270cm|
